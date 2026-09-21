@@ -134,7 +134,7 @@ Internship-3week-networkwalk/
 
 ---
 
-## 🙏 Thank You
+## 🤝 Thank You
 
 Thank you for checking out this project! Feel free to connect with me on LinkedIn for feedback, collaboration, or opportunities.
 
